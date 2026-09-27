@@ -5,6 +5,7 @@ export const Header = () => {
     <header className={styles.header}>
       <h1>Consulta de Endereço</h1>
       <p>Digite o CEP para encontrar informações completas</p>
+      
     </header>
   );
 };

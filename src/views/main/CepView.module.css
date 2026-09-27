@@ -12,7 +12,7 @@
 
 /* --- HEADER --- */
 .header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #949ab5 0%, #ad8ecb 100%);
   color: white;
   padding: 20px;
   text-align: center;
@@ -36,7 +36,7 @@
 
 /* --- FOOTER --- */
 .footer {
-  background-color: #2d3748;
+  background-color: #333b48;
   color: #e2e8f0;
   text-align: center;
   padding: 20px;
@@ -88,7 +88,7 @@
 
 .searchButton {
   padding: 12px 20px;
-  background-color: #667eea;
+  background-color: #899bec;
   color: white;
   border: none;
   border-radius: 6px;
@@ -132,3 +132,4 @@
 .resultCard strong {
   color: #2d3748;
 }
+

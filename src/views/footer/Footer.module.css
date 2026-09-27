@@ -1,5 +1,5 @@
 .footer {
-  background-color: #2d3748;
+  background-color: #8a778d;;
   color: #e2e8f0;
   text-align: center;
   padding: 20px;
@@ -8,7 +8,7 @@
 }
 
 .footer a {
-  color: #667eea;
+  color: #45038b;;
   text-decoration: none;
   font-weight: bold;
 }
@@ -16,3 +16,4 @@
 .footer a:hover {
   text-decoration: underline;
 }
+
