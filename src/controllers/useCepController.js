@@ -50,7 +50,7 @@ export const useCepController = () => {
 
   return { 
     cep, 
-    handleCepChange, // Exportamos a nova função
+    handleCepChange,
     address, 
     error, 
     loading, 

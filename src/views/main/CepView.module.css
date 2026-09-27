@@ -1,16 +1,17 @@
-/* src/views/CepView.module.css */
 
-/* Engloba toda a página para manter o footer embaixo */
 .pageWrapper {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #f4f7f6;
+  margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 0; /* Remova a margem do body globalmente se necessário */
+  background-image: url('../../assets/florsakura.png'); 
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat;  
+  background-attachment: fixed;
 }
 
-/* --- HEADER --- */
 .header {
   background: linear-gradient(135deg, #949ab5 0%, #ad8ecb 100%);
   color: white;
@@ -34,13 +35,12 @@
   opacity: 0.9;
 }
 
-/* --- FOOTER --- */
 .footer {
   background-color: #333b48;
   color: #e2e8f0;
   text-align: center;
   padding: 20px;
-  margin-top: auto; /* Empurra o footer para o fim da tela */
+  margin-top: auto; 
   font-size: 0.9rem;
 }
 
@@ -54,7 +54,6 @@
   text-decoration: underline;
 }
 
-/* --- CONTEÚDO PRINCIPAL --- */
 .container {
   max-width: 450px;
   width: 100%;
@@ -83,12 +82,12 @@
 }
 
 .searchInput:focus {
-  border-color: #667eea;
+  border-color: #ad99c6;
 }
 
 .searchButton {
   padding: 12px 20px;
-  background-color: #899bec;
+  background-color: #e9b0c7;
   color: white;
   border: none;
   border-radius: 6px;
@@ -99,7 +98,7 @@
 }
 
 .searchButton:hover:not(:disabled) {
-  background-color: #5a67d8;
+  background-color: #ad99c6;
 }
 
 .searchButton:disabled {

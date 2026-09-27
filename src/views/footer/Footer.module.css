@@ -1,6 +1,6 @@
 .footer {
-  background-color: #8a778d;;
-  color: #e2e8f0;
+  background-color: #8d6c92;
+  color: white;
   text-align: center;
   padding: 20px;
   margin-top: auto; 
@@ -8,7 +8,7 @@
 }
 
 .footer a {
-  color: #45038b;;
+  color: #e9b0c7;
   text-decoration: none;
   font-weight: bold;
 }
