@@ -55,7 +55,7 @@ Siga os passos abaixo para executar a aplicação na sua máquina:
    - Abra o link fornecido no terminal (geralmente `http://localhost:5173/`).
 
 6. **Acesse pelo Vercel:**
-   - Link executável: [ConsultaCep]()
+   - Link executável: [ConsultaCep](https://consulta-cep-orpin.vercel.app/)
 
 ## 📁 Estrutura de Pastas
 
