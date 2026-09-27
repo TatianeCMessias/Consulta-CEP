@@ -78,3 +78,5 @@ Siga os passos abaixo para executar a aplicação na sua máquina:
  ┣ 📜 App.jsx
  ┗ 📜 main.jsx
 ```
+
+### Autora Tatiane Messias
