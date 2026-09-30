@@ -17,6 +17,7 @@ export const useCepController = () => {
     // Aplica o traço após o 5º dígito
     if (value.length > 5) {
       value = value.replace(/^(\d{5})(\d)/, '$1-$2');
+      setLoading(true);
     }
     
     setCep(value);
